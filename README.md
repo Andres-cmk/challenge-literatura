@@ -1,7 +1,7 @@
 ![badge_literalura](https://github.com/user-attachments/assets/21ae4059-3f85-4dff-b6a0-2fb2309c541a)
 
 
-# Books API 📚
+# Literatura Challenge 📚
 
 ## Descripción 🗒
 
