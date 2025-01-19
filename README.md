@@ -37,5 +37,5 @@ El proyecto también ofrece la posibilidad de buscar libros por idioma y obtener
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/books-api.git
-   cd books-api
+   git clone https://github.com/Andres-cmk/challenge-literatura.git
+   cd challenge-literatura
