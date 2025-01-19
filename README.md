@@ -1,11 +1,11 @@
 ![badge_literalura](https://github.com/user-attachments/assets/21ae4059-3f85-4dff-b6a0-2fb2309c541a)
 
 
-# Books API
+# Books API 📚
 
-## Descripción
+## Descripción 🗒
 
-Este proyecto es una API para la gestión de libros, autores y la relación entre ellos. Permite realizar operaciones de creación, lectura, actualización y eliminación (CRUD) sobre libros y autores, con un enfoque en la consulta de autores vivos en un año determinado. La API está construida usando **Spring Boot** y utiliza **JPA** (Java Persistence API) para la persistencia de datos en una base de datos relacional.
+Este proyecto es una API para la gestión de libros, autores y la relación entre ellos. Permite la busqueda de libros, autores, buscar en la base de datos los registros con sus relaciones.
 
 El proyecto también ofrece la posibilidad de buscar libros por idioma y obtener información detallada sobre los autores, incluyendo aquellos que están vivos en un año específico.
 
@@ -20,7 +20,7 @@ El proyecto también ofrece la posibilidad de buscar libros por idioma y obtener
 
 ## Funcionalidades
 
-- **Gestión de libros**: Puedes agregar, modificar, eliminar y consultar libros por título y idioma.
+- **Gestión de libros**: Puedes agregar y consultar libros por título y idioma.
 - **Gestión de autores**: Los autores se pueden agregar, listar y consultar. Se puede verificar si un autor está vivo en un año determinado.
 - **Consulta de libros por idioma**: Puedes consultar todos los libros que están disponibles en un idioma específico.
 - **Consulta de autores vivos en un año**: Permite obtener los autores que están vivos en un año determinado, considerando su fecha de nacimiento y fallecimiento.
